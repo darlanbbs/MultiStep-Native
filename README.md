@@ -12,6 +12,9 @@
 
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
 
+The challenge project Multi-step Form is a challange version mobile by (frontendmentor.io/challenges) to improve the techniques in ReactNative and Typescript
+
+
 **Available for Android.**
 
 <p align="center">
