@@ -17,19 +17,6 @@ The challenge project Multi-step Form is a challange version mobile by (frontend
 
 **Available for Android.**
 
-<p align="center">
-  <img src = "https://github.com/darlanbbs/imgs/blob/main/MultiStepNative/homepage.png" width=300>
-  <img src = "https://github.com/darlanbbs/imgs/blob/main/MultiStepNative/plansPage.png" width=300>
-  <img src = "https://github.com/darlanbbs/imgs/blob/main/MultiStepNative/addonsPage.png" width=300>
-   <img src = "https://github.com/darlanbbs/imgs/blob/main/MultiStepNative/addonsAny.png" width=300>
-    <img src = "https://github.com/darlanbbs/imgs/blob/main/MultiStepNative/addonsRight.png" width=300>
-     <img src = "https://github.com/darlanbbs/imgs/blob/main/MultiStepNative/summaryPage.png" width=300>
-      <img src = "https://github.com/darlanbbs/imgs/blob/main/MultiStepNative/thanks.png" width=300>
-  
-</p>
-
-
-
 ## Build Process
 
 - Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
